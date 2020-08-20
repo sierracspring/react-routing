@@ -1,0 +1,15 @@
+.nav-bar-container > a {
+  text-decoration: none;
+  color: blueviolet;
+  padding: 15px;
+}
+
+.nav-bar-container > a:hover {
+  color: white;
+  background-color: blueviolet;
+}
+
+.nav-bar-container .active {
+  color: white;
+  background-color: blueviolet;
+}
